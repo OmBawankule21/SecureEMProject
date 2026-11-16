@@ -1,0 +1,3 @@
+Algorithm,Samples,Iterations,Runtime_seconds
+Centralized EM,600,3,0.004425073000675184
+Secure EM,600,3,0.046646327999042114

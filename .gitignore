@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# MP-SPDZ private and generated data
+MP-SPDZ/Player-Data/
+MP-SPDZ/Programs/Schedules/
+MP-SPDZ/Programs/Bytecode/
+MP-SPDZ/Programs/Public-Input/
+MP-SPDZ/Programs/Private-Input/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated experiment data
+results/*.npz
+results/*.json
+results/*.csv
+
+# Python cache
+.pytest_cache/
+MP-SPDZ/
+
+# Allow research results and visualizations
+!results/*.csv
+!results/*.png

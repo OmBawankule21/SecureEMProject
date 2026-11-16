@@ -1,0 +1,4 @@
+Samples,Iterations,End_to_end_runtime_seconds,Last_iteration_party0_mpc_time_seconds,Last_iteration_global_communication_MB
+600,3,0.471423,0.00234752,0.003024
+1200,3,0.437622,0.00205843,0.003024
+2400,3,0.524868,0.00358569,0.003024

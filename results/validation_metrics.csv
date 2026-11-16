@@ -1,0 +1,5 @@
+Metric,Centralized EM,Secure EM,Absolute Difference
+Iterations,3,3,0
+Weights max error,-,-,5.438398065216177e-10
+Means max error,-,-,1.2837356511141707e-08
+Covariance max error,-,-,4.5876834997571336e-08
